@@ -3,10 +3,10 @@
 date = 2019-11-25T00:00:00
 
 # Project title.
-title = "Organizational design and reform"
+title = "Organizational behavior"
 
 # Project summary to display on homepage.
-summary = "How are organizations designed and coordinated to achieve coordinated action? [click for more]"
+summary = "Why do organizations behave the way they do? [click for more]"
 
 
 # Optional image to display on homepage (relative to `static/img/` folder).
@@ -29,6 +29,6 @@ caption = "My caption :smile:"
 
 +++
 
-Questions on the optimal design of organizations go to the heart of organization practice and science. Organizations exist to generate collective coordinated action. I study how organizations are designed and coordinated to achieve such coordinated action. Why do organizations organize themselves the way they do, and what are the implications?  
+Organizational behavior scholars study the interface between human behavior and the organization efforts, and the organization itself. Put simply, it studies how  and why organizations (and the individuals and groups within) behave the way they do. 
 
-Although changes in organizational design are often applauded by managers and consultants as necessary instruments to improve organizational flexibility, research also shows potentially negative effects of overly intense reform trajectories. I examine why organizations engage in reforms (particularly focusing on the role of reputation), how organizational reforms are managed, and how reforms impact various attitudes and behaviors of employees.
+A critical idea in organizational behavior research is that an adequate understanding of human behavior and motivations should drive (research on) organizational management. In my own research, I study the interface between organizational design (and efforts to re-design) and human behavior (attitudes, emotions and intentions). I am particularly interested in the interaction and tensions between organizational levels. Due to internal differentiation, different (groups of) employees might have a different understanding of the strategic priorities compared to top management. As a result, implementation does often not proceed as planned. 
