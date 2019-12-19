@@ -16,6 +16,7 @@ role: Postdoctoral researcher
 organizations:
 - name: University of Antwerp
   url: "https://www.uantwerpen.be/nl/personeel/jan-boon/"
+- name: Guest Professor
 - name: Antwerp Management School
   url: "https://www.antwerpmanagementschool.be/en/program/executive-master-public-management"
 
