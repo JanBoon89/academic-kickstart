@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jan Boon
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Antwerp
+  url: ""
+- name: Antwerp Management School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
