@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the research groups Politics & Public Governance (PPG, Departement of Political Sciences) and Computational Linguistics & Psycholinguistics (CLiPS, Departement of Linguistics) at the University of Antwerp. My research focuses on organization’s strategic management and organizational behavior. In 2019, I was awarded a senior postdoc grant from the Flemish Research Council to work on the project “Reputation and Structural Reforms of Public Organizations: Explaining Temporal Dynamics”. I also teach at the Antwerp Management School and University of Antwerp, and have teaching experience at Tilburg University.  
+I am a postdoctoral researcher in the research groups Politics & Public Governance (PPG, Departement of Political Sciences) and Computational Linguistics & Psycholinguistics (CLiPS, Departement of Linguistics) at the University of Antwerp. My research focuses on organization’s strategic management and organizational behavior. In 2019, I was awarded a senior postdoc grant from the Flemish Research Council to work on the project “Reputation and Structural Reforms of Public Organizations: Explaining Temporal Dynamics”. I also teach at the Antwerp Management School and University of Antwerp, and have teaching experience at Tilburg University. 
+
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
