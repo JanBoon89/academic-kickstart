@@ -24,8 +24,8 @@ organizations:
 bio: My research focuses on organization’s strategic management and organizational behavior. 
 
 interests:
-- Strategic management
-- Organizational behavior
+- Strategic management and reputation
+- Organizational design and behavior
 - Machine learning
 
 education:
