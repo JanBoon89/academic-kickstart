@@ -21,12 +21,12 @@ organizations:
   url: "https://www.antwerpmanagementschool.be/en/program/executive-master-public-management"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on organization’s strategic management and organizational behavior. 
+bio: My research focuses on strategic management, organizational change and the role of reputation.  
 
 interests:
-- Strategic management and reputation
-- Organizational design and behavior
-- Machine learning
+- Strategic management: learning, innovation and organizational change
+- Reputation and stakeholder management
+- Machine learning and artificial inteliggence
 
 education:
   courses:
