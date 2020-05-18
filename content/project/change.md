@@ -28,7 +28,7 @@ image = ""
 caption = "My caption :smile:"
 
 +++
-For contemprary organizations, transformation seems to be the norm rather than the exception. Environments are changing rapidly and becoming evermore complex, which imposes constant demands on organizations to adapt to this turbulence. In the public and private sector alike, effectively and strategically dealing with turbulence has become a critical resource that distingishes succesful from non-succesful organizations. 
+For contemporary organizations, transformation seems to be the norm rather than the exception. Environments are changing rapidly and becoming evermore complex, which imposes constant demands on organizations to adapt to this turbulence. In the public and private sector alike, effectively and strategically dealing with turbulence has become a critical resource that distingishes succesful from non-succesful organizations. 
 
 Organizations are urged to take control of change rather than be controlled by it. I am interested in how organizations adopt changes in their structures or processes, and how organizations innovate to cope with external demands and turbulence. Particularly in the public sector, the high demands that are placed to perform against a background of budget scarcity increasingly requires public organizations to "do things differently" and experiment with new and innovative solutions. 
 
