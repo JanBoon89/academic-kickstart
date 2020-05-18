@@ -24,7 +24,7 @@ organizations:
 bio: My research focuses on strategic management, organizational change and the role of reputation.  
 
 interests:
-- Strategic management: learning, innovation and organizational change
+- Strategic management and organizational change
 - Reputation and stakeholder management
 - Machine learning and artificial inteliggence
 
