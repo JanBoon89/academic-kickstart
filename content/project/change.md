@@ -14,7 +14,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["Twitter"]`
-tags = [Change]
+tags = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
