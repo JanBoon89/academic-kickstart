@@ -15,6 +15,7 @@ role: Postdoctoral researcher
 # Organizations/Affiliations
 organizations:
 - name: Flemish Research Council
+  url: "https://www.fwo.be/en/" 
 - name: University of Antwerp
   url: "https://www.uantwerpen.be/nl/personeel/jan-boon/"
 - name: Guest Professor
