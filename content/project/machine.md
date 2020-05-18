@@ -3,10 +3,10 @@
 date = 2019-11-15T00:00:00
 
 # Project title.
-title = "Machine learning"
+title = "Machine learning and artifical intelligence"
 
 # Project summary to display on homepage.
-summary = "Automated data collection and analysis techniques [click for more]"
+summary = "click for more"
 
 
 # Optional image to display on homepage (relative to `static/img/` folder).
@@ -33,4 +33,4 @@ Recent years have seen a growing excitement surrounding computational methods fo
 
 Organizations produce large amounts of text, often too numerous for hand-coding, yet with large potential for research and practice. In the last years, large amounts of digital information (both text and visual data) have become ever more accessible for research purposes due to advancements in computational methods.
 
-I seek to develop and apply data collection and analysis techniques relying primarily on computational methods and tools, with the objective to answer substantive theory-driven questions in the organization sciences and public administration.
+I seek to develop and apply data collection and analysis techniques relying primarily on computational methods and tools, with the objective to answer substantive theory-driven questions in the organization sciences and public administration. In addition, I am interested in how artificial intelligence is changing strategic decision-making in organizations. 
