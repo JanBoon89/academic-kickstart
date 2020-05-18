@@ -14,6 +14,7 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
+- name: Flemish Research Council
 - name: University of Antwerp
   url: "https://www.uantwerpen.be/nl/personeel/jan-boon/"
 - name: Guest Professor
@@ -21,7 +22,7 @@ organizations:
   url: "https://www.antwerpmanagementschool.be/en/program/executive-master-public-management"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on strategic management, organizational change and the role of reputation.  
+bio: My research focuses on strategic management and reputation; organizational change, learning and innovation; and machine learning and artificial intelligence.  
 
 interests:
 - Strategic management and reputation 
