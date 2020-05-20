@@ -15,7 +15,7 @@ date: "2019-10-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Regulation and Governance"
+publication: In *Regulation and Governance*
 abstract: The purpose of this commentary is to continue and advance the discussion on the relevance of a reputational approach in the fields of regulation and governance. The authors build on Capelos et al.’s (2016) important study in Regulation & Governance, and discuss several themes that had until then received fairly little empirical and comparative attention in the reputation literature: the dimensionality of reputation, reputation as an audience‐based approach, and the role of the task environment. The commentary reviews the literature, provides a clear account of extant approaches, and sets out pressing questions for future research.
 
 tags:
