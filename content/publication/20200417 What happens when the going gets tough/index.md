@@ -15,7 +15,7 @@ date: "2020-04-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Public Management Review*"
+publication: "In *Public Management Review*"
 publication_short: ""
 
 abstract: In times of increasingly turbulent public sector change and frequent career shifts, the relationship between attitudes towards workplace change, organizational identification and turnover intent are highly relevant, but poorly understood. Using data from the Australian Public Service’s (APS) employee survey, this article examines the psychological mechanisms that lead employees to consider leaving their own organization, and the APS as a whole. The combined effect of sceptically perceived workplace change and strong organizational identification leads to an increase in turnover intentions at the organizational level, which testifies to the potentially destructive effect of workplace changes.
