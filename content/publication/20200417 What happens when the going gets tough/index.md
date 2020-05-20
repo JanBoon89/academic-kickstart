@@ -27,8 +27,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "http://doi.org/10.1080/14719037.2020.1722208"
-# url_pdf: "https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1722208?scroll=top&needAccess=true#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDcxOTAzNy4yMDIwLjE3MjIyMDg/bmVlZEFjY2Vzcz10cnVlQEBAMA=="
+# url: "http://doi.org/10.1080/14719037.2020.1722208"
+url_pdf: http://doi.org/10.1080/14719037.2020.1722208
 url_code: ''
 url_dataset: ''
 url_poster: ''
