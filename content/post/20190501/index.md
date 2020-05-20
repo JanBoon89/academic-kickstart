@@ -8,8 +8,7 @@ diagram: true
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-**Original source**
-https://discoversociety.org/2019/05/01/policy-politics-why-do-some-public-agencies-attract-more-media-attention-than-others/
+
 
 Many would agree that, at least in Western democracies, we live in what is referred to as “mediatised societies”. These are generally understood to be societies in which the media somehow penetrate and affect the way central institutions of our societies function. This includes the public agencies responsible for service delivery, regulation, policy formulation or providing subsidies.
 
@@ -34,6 +33,9 @@ Investigating which type of agencies are more likely to attract media attention 
 And since this watchdog role not only benefits citizens but also politicians, a pertinent research finding for current and future governments is to supplement the media with other control mechanisms, in order to prevent being subjected to the bias in media attention when deciding which agencies are to be scrutinised and which are not. From a managerial perspective, understanding which characteristics of their organisation attracts or discourages media attention may help agencies to decide how to invest in the resources necessary to successfully manage the media attention they attract.
 
 *Jan Boon is a postdoctoral researcher in the Department of Management at Aarhus University, Denmark. Heidi Houlberg Salomonsen is associate professor in the Department of Management at Aarhus University, Denmark. Koen Verhoest is research professor in Comparative Public Administration and Globalization at the Department of Political Science, University of Antwerp, Belgium.*
+
+**Original source**
+https://discoversociety.org/2019/05/01/policy-politics-why-do-some-public-agencies-attract-more-media-attention-than-others/
 
 
 
