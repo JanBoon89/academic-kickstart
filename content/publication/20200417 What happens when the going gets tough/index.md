@@ -5,7 +5,6 @@ authors:
 - Jan Wynen
 - Bjorn Kleizen
 date: "2020-04-17T00:00:00Z"
-doi: "https://doi.org/10.1080/14719037.2020.1722208"
 
 # Schedule page publish date (NOT publication's date).
 
