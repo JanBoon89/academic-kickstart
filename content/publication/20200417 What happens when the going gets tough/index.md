@@ -21,16 +21,14 @@ publication_short: ""
 
 abstract: In times of increasingly turbulent public sector change and frequent career shifts, the relationship between attitudes towards workplace change, organizational identification and turnover intent are highly relevant, but poorly understood. Using data from the Australian Public Service’s (APS) employee survey, this article examines the psychological mechanisms that lead employees to consider leaving their own organization, and the APS as a whole. The combined effect of sceptically perceived workplace change and strong organizational identification leads to an increase in turnover intentions at the organizational level, which testifies to the potentially destructive effect of workplace changes.
 
-
-
 tags:
 - Source Themes
 featured: false
 
 # links:
 # - name: ""
-url: "https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1722208?scroll=top&needAccess=true"
-url_pdf: "https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1722208?scroll=top&needAccess=true#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDcxOTAzNy4yMDIwLjE3MjIyMDg/bmVlZEFjY2Vzcz10cnVlQEBAMA=="
+url: "http://doi.org/10.1080/14719037.2020.1722208"
+# url_pdf: "https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1722208?scroll=top&needAccess=true#aHR0cHM6Ly93d3cudGFuZGZvbmxpbmUuY29tL2RvaS9wZGYvMTAuMTA4MC8xNDcxOTAzNy4yMDIwLjE3MjIyMDg/bmVlZEFjY2Vzcz10cnVlQEBAMA=="
 url_code: ''
 url_dataset: ''
 url_poster: ''
