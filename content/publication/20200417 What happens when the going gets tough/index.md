@@ -25,9 +25,8 @@ tags:
 featured: false
 
 # links:
-- name: "Article"
-  url: http://doi.org/10.1080/14719037.2020.1722208
-
+- name: "Link"
+url: http://doi.org/10.1080/14719037.2020.1722208
 url_pdf: http://doi.org/10.1080/14719037.2020.1722208
 url_code: ''
 url_dataset: ''
