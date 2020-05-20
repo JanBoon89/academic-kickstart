@@ -25,15 +25,15 @@ tags:
 featured: false
 
 # links:
-- name: "Link"
-url: http://doi.org/10.1080/14719037.2020.1722208
+# - name: "Link"
+# url: http://doi.org/10.1080/14719037.2020.1722208
 url_pdf: http://doi.org/10.1080/14719037.2020.1722208
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: http://doi.org/10.1080/14719037.2020.1722208
+url_source: ''
 url_video: ''
 
 # Associated Projects (optional).
