@@ -16,7 +16,7 @@ publication_types: ["2"]
 publication: "In *Public Administration*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Governments across the globe try to rebalance their budgets by rationalizing overhead operations. When overhead‐reducing policies are adopted, it is important to understand why some central government organizations have a higher overhead than others, and why organizational models to produce overhead efficiencies are used to different degrees. This study focuses on the Flemish context to analyse differences between central government organizations in the size and organization of two overhead processes: human resources management (HRM ) and finance and control (FIN ). Significant effects are found for autonomy, organizational size, spatial dispersion and budgetary stress, yet effects vary according to whether HRM or FIN is considered and whether the focus is on the size or the organization of HRM or FIN . Our findings have practical implications to get a process‐sensitive understanding of the size and organization of overhead, and theoretical implications as they cast light on factors that shape decision‐making in public organizations.
 
 links:
 - name: Article
