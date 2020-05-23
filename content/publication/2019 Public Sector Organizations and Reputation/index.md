@@ -24,7 +24,7 @@ tags:
 featured: false
 
 links:
-- name: Article
+- name: Chapter
   url: onlinelibrary.wiley.com/doi/abs/10.1002/9781119263203.ch14
 # links:
 # - name: "Link"
