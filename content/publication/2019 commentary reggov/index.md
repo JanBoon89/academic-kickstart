@@ -14,7 +14,7 @@ doi: "http://doi.org/10.1111/rego.12290"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "In *Regulation & Governance*"
 publication_short: ""
 
 # links:
