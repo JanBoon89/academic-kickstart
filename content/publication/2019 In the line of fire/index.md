@@ -27,10 +27,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+- name: Article
+  url: www.budrich-journals.de/index.php/dms/article/view/33443
+
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://www.budrich-journals.de/index.php/dms/article/view/33443
+# url_pdf: http://www.budrich-journals.de/index.php/dms/article/view/33443
 url_code: ''
 url_dataset: ''
 url_poster: ''
