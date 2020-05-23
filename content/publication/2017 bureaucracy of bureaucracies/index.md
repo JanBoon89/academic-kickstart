@@ -18,7 +18,7 @@ publication_short: ""
 
 # links:
 - name: "Article"
-  url: doi.org/10.1111/padm.12300
+- url: doi.org/10.1111/padm.12300
 # url_pdf: http://doi.org/10.1111/padm.12300
 url_code: ''
 url_dataset: ''
