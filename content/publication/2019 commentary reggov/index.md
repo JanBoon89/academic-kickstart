@@ -5,7 +5,7 @@ authors:
 - Heidi Salomonsen
 - Koen Verhoest
 date: "2019-04-17T00:00:00Z"
-doi: "http://doi.org/10.1111/rego.12290"
+doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://doi.org/10.1111/rego.12290
 url_code: ''
 url_dataset: ''
 url_poster: ''
