@@ -17,7 +17,7 @@ publication: "In *Public Administration*"
 publication_short: ""
 
 # links:
-# - name: ""
+- name: "Article"
 url: doi.org/10.1111/padm.12300
 # url_pdf: http://doi.org/10.1111/padm.12300
 url_code: ''
