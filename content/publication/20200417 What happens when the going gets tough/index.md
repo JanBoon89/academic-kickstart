@@ -24,10 +24,9 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: "Link"
-# url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://doi.org/10.1080/14719037.2020.1722208
+links:
+- name: Article
+  url: doi.org/10.1080/14719037.2020.1722208
 url_code: ''
 url_dataset: ''
 url_poster: ''
