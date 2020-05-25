@@ -25,7 +25,7 @@ featured: false
 
 links:
 - name: Chapter
-  url: onlinelibrary.wiley.com/doi/abs/10.1002/9781119263203.ch14
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119263203.ch14
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
