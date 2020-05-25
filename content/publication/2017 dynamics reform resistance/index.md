@@ -20,7 +20,7 @@ abstract: 'Across the globe, governments are engaging in Shared Service Center (
 
 links:
 - name: Article
-  url: doi.org/10.1080/10967494.2016.1276494
+  url: https://doi.org/10.1080/10967494.2016.1276494
 
 # links:
 # - name: ""
