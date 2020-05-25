@@ -29,7 +29,7 @@ featured: false
 
 links:
 - name: Article
-  url: www.budrich-journals.de/index.php/dms/article/view/33443
+  url: https://www.budrich-journals.de/index.php/dms/article/view/33443
 
 # links:
 # - name: "Link"
