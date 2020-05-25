@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: Article
-  url: journals.sagepub.com/doi/10.1177/0020852317692137
+  url: https://journals.sagepub.com/doi/10.1177/0020852317692137
 
 # links:
 # - name: "Link"
