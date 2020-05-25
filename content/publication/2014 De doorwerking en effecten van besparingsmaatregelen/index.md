@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: Article
-  url: www.jurisquare.be/en/journal/vtom/2014-2/de-doorwerking-en-effecten-van-besparingsmaatregelen-in-de-vlaamse-administratie-enkele-eerste-besch/index.html;jsessionid=4986F7B65D565A6D73905C2A0B66CDDE
+  url: https://www.jurisquare.be/en/journal/vtom/2014-2/de-doorwerking-en-effecten-van-besparingsmaatregelen-in-de-vlaamse-administratie-enkele-eerste-besch/index.html;jsessionid=4986F7B65D565A6D73905C2A0B66CDDE
 
 # links:
 # - name: "Link"
