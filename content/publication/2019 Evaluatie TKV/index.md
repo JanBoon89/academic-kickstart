@@ -25,7 +25,7 @@ en aanbevelingen van de governance (besluitvorming en ondersteuning) van de Werk
 
 links:
 - name: Report
-  url: routeplan2030.be/wp-content/uploads/2019/06/Rapport-Evaluatie-Werkgemeenschap-1.pdf
+  url: https://routeplan2030.be/wp-content/uploads/2019/06/Rapport-Evaluatie-Werkgemeenschap-1.pdf
 # url_pdf: http://doi.org/10.1111/padm.12300
 url_code: ''
 url_dataset: ''
