@@ -24,10 +24,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+- name: Article
+  url: www.jurisquare.be/en/journal/vtom/2014-2/de-doorwerking-en-effecten-van-besparingsmaatregelen-in-de-vlaamse-administratie-enkele-eerste-besch/index.html;jsessionid=4986F7B65D565A6D73905C2A0B66CDDE
+
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://www.jurisquare.be/en/journal/vtom/2014-2/de-doorwerking-en-effecten-van-besparingsmaatregelen-in-de-vlaamse-administratie-enkele-eerste-besch/index.html;jsessionid=4986F7B65D565A6D73905C2A0B66CDDE
+# url_pdf: http://www.jurisquare.be/en/journal/vtom/2014-2/de-doorwerking-en-effecten-van-besparingsmaatregelen-in-de-vlaamse-administratie-enkele-eerste-besch/index.html;jsessionid=4986F7B65D565A6D73905C2A0B66CDDE
 url_code: ''
 url_dataset: ''
 url_poster: ''
