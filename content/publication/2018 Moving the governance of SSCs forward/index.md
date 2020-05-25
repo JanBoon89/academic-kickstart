@@ -22,10 +22,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+- name: Article
+  url: www.tandfonline.com/doi/full/10.1080/09540962.2018.1407135
+
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://www.tandfonline.com/doi/full/10.1080/09540962.2018.1407135
+# url_pdf: http://www.tandfonline.com/doi/full/10.1080/09540962.2018.1407135
 url_code: ''
 url_dataset: ''
 url_poster: ''
