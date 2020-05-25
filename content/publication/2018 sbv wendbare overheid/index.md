@@ -22,7 +22,7 @@ abstract: 'Het rapport is het sluitstuk van de eerste programmatieperiode van he
 
 links:
 - name: Report
-  url: www.vlaanderen.be/publicaties/wendbare-overheid-aftoetsing-onderbouwing-en-verrijking-van-de-vlaamse-hervormingspraktijk
+  url: https://www.vlaanderen.be/publicaties/wendbare-overheid-aftoetsing-onderbouwing-en-verrijking-van-de-vlaamse-hervormingspraktijk
 # url_pdf: http://doi.org/10.1111/padm.12300
 url_code: ''
 url_dataset: ''
