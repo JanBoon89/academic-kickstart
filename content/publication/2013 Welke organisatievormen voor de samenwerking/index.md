@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: Article
-  url: www.jurisquare.be/nl/journal/vtom/2013-2/welke-organisatievormen-voor-de-samenwerking-tussen-gemeente-en-ocmw-op-het-vlak-van-ondersteunende-/index.html
+  url: https://www.jurisquare.be/nl/journal/vtom/2013-2/welke-organisatievormen-voor-de-samenwerking-tussen-gemeente-en-ocmw-op-het-vlak-van-ondersteunende-/index.html
 
 # links:
 # - name: "Link"
