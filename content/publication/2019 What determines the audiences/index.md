@@ -24,7 +24,7 @@ featured: false
 
 links:
 - name: Article
-  url: doi.org/10.1332/030557319X15613697611542
+  url: https://doi.org/10.1332/030557319X15613697611542
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
