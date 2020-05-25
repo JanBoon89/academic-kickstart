@@ -24,7 +24,7 @@ featured: false
 
 links:
 - name: Article
-  url: www.researchgate.net/publication/315766821_Verantwoording_en_aansturing_De_spanning_tussen_vertrouwen_en_prestatiemetingen
+  url: https://www.researchgate.net/publication/315766821_Verantwoording_en_aansturing_De_spanning_tussen_vertrouwen_en_prestatiemetingen
 
 # links:
 # - name: "Link"
