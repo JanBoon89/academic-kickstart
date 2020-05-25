@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: Article
-  url: doi.org/10.1332/030557318X15407316633243
+  url: https://doi.org/10.1332/030557318X15407316633243
 
 # links:
 # - name: "Link"
