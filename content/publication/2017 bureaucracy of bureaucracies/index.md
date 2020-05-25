@@ -20,7 +20,7 @@ abstract: 'Governments across the globe try to rebalance their budgets by ration
 
 links:
 - name: Article
-  url: doi.org/10.1111/padm.12300
+  url: https://doi.org/10.1111/padm.12300
 # url_pdf: http://doi.org/10.1111/padm.12300
 url_code: ''
 url_dataset: ''
