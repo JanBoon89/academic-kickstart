@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: Chapter
-  url: www.researchgate.net/publication/289564130_How_organizational_reputation_and_trust_may_affect_the_autonomy_of_independent_regulators_The_case_of_the_flemish_energy_regulator
+  url: https://www.researchgate.net/publication/289564130_How_organizational_reputation_and_trust_may_affect_the_autonomy_of_independent_regulators_The_case_of_the_flemish_energy_regulator
 
 # links:
 # - name: "Link"
