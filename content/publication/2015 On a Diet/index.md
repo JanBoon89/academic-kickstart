@@ -25,7 +25,7 @@ featured: false
 
 links:
 - name: Article
-  url: www.tandfonline.com/doi/full/10.1080/15309576.2015.983828
+  url: https://www.tandfonline.com/doi/full/10.1080/15309576.2015.983828
 
 # links:
 # - name: "Link"
