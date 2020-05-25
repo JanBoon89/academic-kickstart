@@ -22,10 +22,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+- name: Article
+  url: www.researchgate.net/publication/315766821_Verantwoording_en_aansturing_De_spanning_tussen_vertrouwen_en_prestatiemetingen
+
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://www.researchgate.net/publication/315766821_Verantwoording_en_aansturing_De_spanning_tussen_vertrouwen_en_prestatiemetingen
+# url_pdf: http://www.researchgate.net/publication/315766821_Verantwoording_en_aansturing_De_spanning_tussen_vertrouwen_en_prestatiemetingen
 url_code: ''
 url_dataset: ''
 url_poster: ''
