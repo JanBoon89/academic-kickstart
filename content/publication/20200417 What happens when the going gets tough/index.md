@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: Article
-  url: doi.org/10.1080/14719037.2020.1722208
+  url: https://doi.org/10.1080/14719037.2020.1722208
 url_code: ''
 url_dataset: ''
 url_poster: ''
