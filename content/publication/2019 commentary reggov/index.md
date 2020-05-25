@@ -21,7 +21,7 @@ abstract: 'The purpose of this commentary is to continue and advance the discuss
 
 links:
 - name: Article
-  url: doi.org/10.1111/rego.12290
+  url: https://doi.org/10.1111/rego.12290
 
 # links:
 # - name: ""
