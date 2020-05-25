@@ -24,10 +24,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+- name: Article
+  url: journals.sagepub.com/doi/10.1177/0020852317692137
+
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://journals.sagepub.com/doi/10.1177/0020852317692137
+# url_pdf: http://journals.sagepub.com/doi/10.1177/0020852317692137
 url_code: ''
 url_dataset: ''
 url_poster: ''
