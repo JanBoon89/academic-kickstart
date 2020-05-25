@@ -27,7 +27,7 @@ featured: false
 
 links:
 - name: Article
-  url: journals.sagepub.com/doi/10.1177/0734371X18824388
+  url: https://journals.sagepub.com/doi/10.1177/0734371X18824388
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
