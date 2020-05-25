@@ -24,10 +24,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+- name: Chapter
+  url: www.researchgate.net/publication/289564130_How_organizational_reputation_and_trust_may_affect_the_autonomy_of_independent_regulators_The_case_of_the_flemish_energy_regulator
+
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://www.researchgate.net/publication/289564130_How_organizational_reputation_and_trust_may_affect_the_autonomy_of_independent_regulators_The_case_of_the_flemish_energy_regulator
+# url_pdf: http://www.researchgate.net/publication/289564130_How_organizational_reputation_and_trust_may_affect_the_autonomy_of_independent_regulators_The_case_of_the_flemish_energy_regulator
 url_code: ''
 url_dataset: ''
 url_poster: ''
