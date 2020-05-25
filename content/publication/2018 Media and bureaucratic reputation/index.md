@@ -27,7 +27,7 @@ featured: false
 
 links:
 - name: Chapter
-  url: link.springer.com/chapter/10.1007/978-3-319-76672-0_9
+  url: https://link.springer.com/chapter/10.1007/978-3-319-76672-0_9
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
