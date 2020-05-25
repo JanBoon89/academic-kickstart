@@ -24,10 +24,14 @@ tags:
 - Source Themes
 featured: false
 
+links:
+- name: Article
+  url: www.jurisquare.be/nl/journal/vtom/2013-2/welke-organisatievormen-voor-de-samenwerking-tussen-gemeente-en-ocmw-op-het-vlak-van-ondersteunende-/index.html
+
 # links:
 # - name: "Link"
 # url: http://doi.org/10.1080/14719037.2020.1722208
-url_pdf: http://www.jurisquare.be/nl/journal/vtom/2013-2/welke-organisatievormen-voor-de-samenwerking-tussen-gemeente-en-ocmw-op-het-vlak-van-ondersteunende-/index.html
+# url_pdf: http://www.jurisquare.be/nl/journal/vtom/2013-2/welke-organisatievormen-voor-de-samenwerking-tussen-gemeente-en-ocmw-op-het-vlak-van-ondersteunende-/index.html
 url_code: ''
 url_dataset: ''
 url_poster: ''
