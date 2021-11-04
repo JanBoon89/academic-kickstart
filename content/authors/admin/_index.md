@@ -23,7 +23,7 @@ organizations:
   url: "https://www.antwerpmanagementschool.be/en/program/executive-master-public-management"
 
 # Short bio (displayed in user profile at end of posts)
-bio: test
+bio: ""
 
 interests:
 - Perceptions of the public sector, reputation and trust
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the research groups Politics & Public Governance (PPG, Departement of Political Sciences) and Computational Linguistics & Psycholinguistics (CLiPS, Departement of Linguistics) at the University of Antwerp. In 2019, I was awarded a senior postdoc grant from the Flemish Research Council to work on the project “Reputation and Structural Reforms of Public Organizations: Explaining Temporal Dynamics”. I also teach at the Antwerp Management School and University of Antwerp, and previously taught at Tilburg University. 
+I am a postdoctoral researcher in the research groups Politics & Public Governance (PPG, Departement of Political Sciences) and Computational Linguistics & Psycholinguistics (CLiPS, Departement of Linguistics) at the University of Antwerp. In 2019, I was awarded a senior postdoc grant from the Flemish Research Council to work on the project “Reputation and Structural Reforms of Public Organizations: Explaining Temporal Dynamics”. In 2021, I received an additional postdoc grant from the Fonds de la Recherche Scientifique (FNRS) for my proposal “Breaking the Cycle: On the dynamics between reputation and innovation in government organizations”. I also teach at the Antwerp Management School and University of Antwerp, and previously taught at Tilburg University. 
 
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
