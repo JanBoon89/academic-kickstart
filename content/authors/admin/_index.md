@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior postdoctoral researcher
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -26,9 +26,9 @@ organizations:
 bio: My research focuses on (the interplay of) three main themes: perceptions of the public sector (reputation, trust); reforms, change and innovations in the public sector; and collaboration and stakeholder participation.
 
 interests:
-- Perceptions of the public sector, reputation and trust  
-- Reforms, change and innovation in public organizations
-- Collaboration and stakeholder participation
+- Perceptions of the public sector 
+- Reforms, change and innovation 
+- Collaboration and stakeholder 
 
 education:
   courses:
