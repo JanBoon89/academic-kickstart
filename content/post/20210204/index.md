@@ -44,8 +44,6 @@ The argument is not that organisations should not reform. Going back to where we
 
 Given the growing interest in, and need for, public sector reform, researchers and policy makers should explore other ways to mitigate the negative side-effects of repetitive reforms. Appropriate change management strategies, and investing in dynamic capabilities to re-configure internal and external competences and resources to respond to a changing environment, could be a starting point for making public organisations more responsive to external pressures – without jeopardising their effectiveness and sustainability (Teece et al., 1997).
 
-About the authors: Jan Wynen is a research professor at the Department of Management at the University of Antwerp; Koen Verhoest is a research professor and coordinator of the Politics and Public Governance research unit and the GOVTRUST Centre of Excellence at the University of Antwerp; Jan Boon is a postdoctoral researcher at the ‘Politics and Public Governance’ research unit at the University of Antwerp; Bjorn Kleizen is a postdoctoral researcher at the ‘Politics and Public Governance’ research unit at the University of Antwerp; Dries Van Doninck is a doctoral researcher at the Department of Management at the University of Antwerp; Danika Pieters is doctoral researcher at the ‘Politics and Public Governance’ research unit at the University of Antwerp; Stéphanie Verlinden is a doctoral researcher at the Department of Management of the University of Antwerp.
-
 **Original source**
 https://dobetter.esade.edu/en/repetitive-reform
 
