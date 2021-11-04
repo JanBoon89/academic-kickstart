@@ -23,7 +23,7 @@ organizations:
   url: "https://www.antwerpmanagementschool.be/en/program/executive-master-public-management"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on (the interplay of) three main themes: perceptions of the public sector (reputation, trust); reforms, change and innovations in the public sector; and collaboration and stakeholder participation.
+bio: test
 
 interests:
 - Perceptions of the public sector, reputation and trust
