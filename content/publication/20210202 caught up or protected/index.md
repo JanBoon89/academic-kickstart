@@ -1,5 +1,5 @@
 ---
-title: "When are organizational reforms perceived positively? An examination of the role of employees’ hierarchical level"
+title: "Caught up or Protected by the Past? How Reputational Histories Matter for Agencies’ Media Reputations"
 authors:
 - Heidi Houlberg Salomonsen
 - Stefan Boye
