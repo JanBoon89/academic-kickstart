@@ -23,12 +23,12 @@ organizations:
   url: "https://www.antwerpmanagementschool.be/en/program/executive-master-public-management"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on strategic management and reputation; organizational change, learning and innovation; and machine learning and artificial intelligence.  
+bio: My research focuses on (the interplay of) three main themes: perceptions of the public sector (reputation, trust); reforms, change and innovations in the public sector; and collaboration and stakeholder participation.
 
 interests:
-- Strategic management and reputation 
-- Organizational change, learning and innovation
-- Machine learning and artificial intelligence
+- Perceptions of the public sector, reputation and trust  
+- Reforms, change and innovation in public organizations
+- Collaboration and stakeholder participation
 
 education:
   courses:
